@@ -75,7 +75,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	
 	# R11.1 Settings
 	export FOX_VERSION="R12.1"
-	export OF_MAINTAINER="Sponmer"
+	export OF_MAINTAINER="Macka"
 	export FOX_BUILD_TYPE="Beta"
 
 	# Run a Process after Formatting Data to Work-Around MTP Issues
